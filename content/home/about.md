@@ -6,4 +6,7 @@ weight: 10
 title: ""
 active: true
 author: authors/admin
+design:
+  background:
+    image: avatar.jpg
 ---
