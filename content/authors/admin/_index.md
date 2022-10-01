@@ -1,7 +1,7 @@
 ---
 title: Elisa X Chen
 role: "Research Fellow at the Harris School of Public Policy "
-avatar_filename: elisachen-headshot.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Development Economics
