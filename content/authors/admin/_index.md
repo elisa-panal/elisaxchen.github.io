@@ -4,9 +4,9 @@ role: "Research Fellow at the Harris School of Public Policy "
 avatar_filename: elisachen-headshot.jpg
 bio: ""
 interests:
-  - DevelopmentEconomics
-  - PoliticalEconomy
-  - ComputationalSocialScience
+  - Development Economics
+  - Political Economy
+  - Computational Social Science
 social:
   - icon: envelope
     icon_pack: fas
