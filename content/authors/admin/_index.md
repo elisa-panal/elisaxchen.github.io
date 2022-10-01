@@ -27,7 +27,8 @@ education:
     - course: "M.P.P in Public Policy "
       institution: "University of Chicago "
       year: 2022
-    - course: "B.A. in Mathematics, History, and Economics "
+    - course: "B.A. in Mathematics, History, and Economics (with Honors and
+        Distinction) "
       institution: "University of Wisconsin - Madison "
       year: 2019
 superuser: true
