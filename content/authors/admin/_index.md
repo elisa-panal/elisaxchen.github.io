@@ -8,11 +8,6 @@ interests:
   - Computational Social Science
   - Political Economy
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: xchen97@uchicago.edu
-    display:
-      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/elisaxchen
