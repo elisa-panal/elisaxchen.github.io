@@ -5,9 +5,8 @@ headless: true
 weight: 10
 title: About
 active: true
-author: "admin"
+author: admin
 design:
   background:
-    image: avatar.jpg
+    image: ""
 ---
-    
