@@ -1,8 +1,10 @@
 ---
 title: Elisa X Chen
-role: "Research Fellow at Harris Public Policy "
+role: "Research Fellow at Harris School of Public Policy "
+avatar_filename: elisachen-headshot.jpg
 bio: ""
-interests: []
+interests:
+  - DevelopmentEconomics
 social:
   - icon: envelope
     icon_pack: fas
