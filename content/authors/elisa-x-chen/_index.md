@@ -1,7 +1,7 @@
 ---
 title: Elisa X Chen
 role: "Research Fellow at Harris School of Public Policy "
-avatar_filename: elisachen-headshot.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - DevelopmentEconomics
@@ -28,7 +28,7 @@ education:
     - course: "M.P.P in Public Policy "
       institution: "University of Chicago "
       year: 2022
-    - course: "B.A. in Mathematics, History, and Economics  "
+    - course: B.A. in Mathematics, History, and Economics (with Honors and Distinction)
       institution: "University of Wisconsin - Madison "
       year: 2019
 superuser: true
