@@ -5,8 +5,8 @@ avatar_filename: elisachen-headshot.jpg
 bio: ""
 interests:
   - Development Economics
-  - Political Economy
   - Computational Social Science
+  - Political Economy
 social:
   - icon: envelope
     icon_pack: fas
