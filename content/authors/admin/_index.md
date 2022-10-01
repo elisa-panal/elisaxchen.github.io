@@ -35,9 +35,9 @@ education:
       institution: "University of Wisconsin - Madison "
       year: 2019
 superuser: true
-last_name: Bighetti
+last_name: Chen
 highlight_name: true
-first_name: Nelson
+first_name: Elisa X
 email: ""
 ---
 H﻿ello! I'm a Pre-Doctoral Research Fellow at Harris School of Public Policy, University of Chicago. Currently, I work with [Anjali Adukia](https://voices.uchicago.edu/anjali/) and the wonderful team at the [MiiE lab](https://www.miielab.com/) to examine inequality in representation in children’s books using computational methods. I also work on development projects that explore the relationship between education, marriage, health, migration, and individuals’ fixed physical characteristics such as skin color in Bangladesh. 
