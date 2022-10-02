@@ -35,7 +35,7 @@ highlight_name: true
 first_name: Elisa X
 email: xchen97 (at) uchicago.edu
 ---
-H﻿ello! I'm a Pre-Doctoral Research Fellow at Harris School of Public Policy, University of Chicago. Currently, I work with [Anjali Adukia](https://voices.uchicago.edu/anjali/) and the wonderful team at the [MiiE lab](https://www.miielab.com/) to examine inequality in representation in children’s books using computational methods. I also work on development projects that explore the relationship between education, marriage, health, migration, and individuals’ fixed physical characteristics such as skin color in Bangladesh. 
+H﻿ello! I'm a Pre-Doctoral Research Fellow at Harris School of Public Policy, University of Chicago. Currently, I work with [Anjali Adukia](https://voices.uchicago.edu/anjali/) and the wonderful team at the [MiiE lab](https://www.miielab.com/) to examine inequality in representation in children’s books using natural language processing and computer vision techniques. I also work on development projects that explore the relationship between education, marriage, health, migration, and individuals’ fixed physical characteristics such as skin color in Bangladesh. 
 
 I’m interested in development economics, with a focus on gender and political economy. My long-term goal is to use a combination of methods such as field experiments and computational tools to conduct research that benefits people living on the periphery in developing countries, and the US. 
 
