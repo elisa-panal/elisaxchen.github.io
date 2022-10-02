@@ -22,12 +22,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: "M.P.P in Public Policy "
-      institution: "University of Chicago "
+    - course: "M.P.P in Public Policy"
+      institution: "University of Chicago"
       year: 2022
     - course: "B.A. in Mathematics, History, and Economics (with Honors and
-        Distinction) "
-      institution: "University of Wisconsin - Madison "
+        Distinction)"
+      institution: "University of Wisconsin - Madison"
       year: 2019
 superuser: true
 last_name: Chen
