@@ -12,7 +12,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/elisaxchen
   - icon: github
-    icon_pack: far
+    icon_pack: fab
     link: https://github.com/elisaxchen
   - icon: linkedin
     icon_pack: fab
