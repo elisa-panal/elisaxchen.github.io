@@ -9,13 +9,13 @@ interests:
   - Political Economy
 social:
   - icon: twitter
-    icon_pack: fab
+    icon_pack: ai
     link: https://twitter.com/elisaxchen
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/elisaxchen
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/elisa-x-chen
 organizations:
   - name: University of Chicago
